@@ -1,0 +1,12 @@
+Package: Conduit
+Version: 0.5.2
+Section: utils
+Priority: optional
+Architecture: x86_64
+Homepage: https://github.com/ConduitIO/conduit
+Depends: 
+Maintainer: Conduit Developers <conduit-dev@meroxa.io>
+Description: Streams data between data stores. Kafka Connect replacement. No JVM required.
+ It's a data streaming tool written in Go, It aims to provide the best user experience for building and running real-time data pipelines.
+ Conduit comes with batteries included, it provides a UI, common connectors, processors and observability data out of the box.
+ It aims to provide the best user experience for building and running real-time data pipelines.

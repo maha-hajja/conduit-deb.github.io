@@ -1,0 +1,12 @@
+Origin: ConduitIO.
+Label: Debian repository to offer conduit
+Suite: stable
+Version: 0.5.2
+Codename: conduit
+Architectures: x86_64
+Components: main
+Description: Streams data between data stores. Kafka Connect replacement. No JVM required. It aims to provide the best user experience for building and running real-time data pipelines.
+SHA1:
+ b89bd105f12105bde27aeaded4eeff87ef553d88  Packages.gz
+SHA256:
+ 21aa58daeb8d3b3d1b11b4f42b59772245009281f03223220eed2372534b616e  Packages.gz
