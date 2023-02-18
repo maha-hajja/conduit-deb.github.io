@@ -1,0 +1,17 @@
+Package: Conduit
+Version: 0.5.2
+Architecture: amd64
+Maintainer: Conduit Developers <conduit-dev@meroxa.io>
+Filename: pool/main/conduit_0.5.2-1_amd64.deb
+Size: 22754332
+MD5sum: e1fbdce1c56aeea187650cbb0c9a5d81
+SHA1: 56c47011e9dfb82f04b748c55e4dd18d01fd90ee
+SHA256: 1d3f0ca26cd58a22aa135af302d9568e1ad5a4c31d5cae751356a6c91dd2b134
+Section: utils
+Priority: optional
+Homepage: https://conduit.io/
+Description: Streams data between data stores. Kafka Connect replacement. No JVM required.
+ It's a data streaming tool written in Go, It aims to provide the best user experience for building and running real-time data pipelines.
+ Conduit comes with batteries included, it provides a UI, common connectors, processors and observability data out of the box.
+ It aims to provide the best user experience for building and running real-time data pipelines.
+
