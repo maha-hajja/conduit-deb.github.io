@@ -1,6 +1,3 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
-
 Origin: ConduitIO
 Label: Debian repository to offer conduit
 Suite: stable
@@ -14,10 +11,3 @@ SHA1:
  9a3e60a423ff02611825d41ddffbf87656a7e05f  Packages.gz
 SHA256:
  8c79a65e1401da1c44fe54fee98249c6f55ea1bc671d442fad17a5ceb113864c  Packages.gz
------BEGIN PGP SIGNATURE-----
-
-iHUEARYKAB0WIQSlUpwxUZ8vagFTeEj1RROPe7DIeAUCY/S4jAAKCRD1RROPe7DI
-eNkUAQCREmuy9YZRrFuYAanMCgOFL9R90yhTtLDIrHDlVQGNhgD8CntQRO2mt76j
-nw9eJcCdCZEN2Uy+Jxs6ImQ3fxdGRAk=
-=/SEm
------END PGP SIGNATURE-----
